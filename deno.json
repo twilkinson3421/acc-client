@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@denosaurs/event": "jsr:@denosaurs/event@^2.0.2",
+    "@exts/binutils": "jsr:@exts/binutils@^0.9.0",
+    "@korkje/match": "jsr:@korkje/match@^0.2.1"
+  }
+}
